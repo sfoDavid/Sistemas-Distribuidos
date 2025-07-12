@@ -1,6 +1,6 @@
 package com.ejb1;
 
-import javax.ejb.Stateless;
+import jakarta.ejb.Stateless;
 
 @Stateless
 public class HelloBean {
